@@ -16,8 +16,8 @@ permalink: /:categories/:year/:month/:day/:title
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
 highlighter: pygments
 
-assets: http://silencewj.github.io/devops/assets
-baseurl: http://silencewj.github.io/devops
+assets: https://silencewj.github.io/devops/assets
+baseurl: https://silencewj.github.io/devops
 
 # pagination
 paginate: 10
